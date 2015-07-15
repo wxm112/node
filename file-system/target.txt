@@ -1,0 +1,4 @@
+This is the target file
+a witty message
+What do you want to eat for dinner?
+www
