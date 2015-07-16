@@ -1,4 +1,2 @@
-This is the target file
-a witty message
-What do you want to eat for dinner?
-www
+This is target.txt.
+How old are you?
